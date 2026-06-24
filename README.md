@@ -1,7 +1,7 @@
 # VITALS: A RAG-Powered Multilingual AI Voice Agent to detect early illness escalation through automated human-like check-ins (Open-Source Developer Edition)
 
 <p align="center">
-  <img src="Vitals20%Logo.png" alt="VITALS Logo" width="300"/>
+  <img src="Vitals-OpenSource-Edition/Assets/Vitals20%Logo.png" alt="VITALS Logo" width="300"/>
 </p>
 
 <p align="center">
